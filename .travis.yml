@@ -1,5 +1,4 @@
 language: node_js
-repo_token: 99UNur6O7ksBqiwgg1NG1sSFhmu78A0t7
 services: mongodb
 node_js:
   - "0.12"
